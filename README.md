@@ -1,4 +1,4 @@
-# Food Delivery Application
+# Food Delivery Application | OrderIt
 
 ## Overview
 This **MERN stack** application enables users to easily order food from local restaurants.
