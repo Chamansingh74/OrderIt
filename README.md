@@ -7,6 +7,7 @@ Restaurant Management: Admins can add, update, and remove restaurant details.
 Menu Management: Admins can manage restaurants food items, update the menu, and set prices.
 Cart Management: Users can easily add and update items in their cart, view the total price, and proceed to checkout.
 Payment Integration: Safe and secure payment gateway integrated for seamless transactions.
+
 Tech Stack
 
 MongoDB: Database to store user data, restaurant information, food items, and orders.
